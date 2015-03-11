@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linea1 cambiada en master
+=======
+linea2 en nueva rama
+>>>>>>> nueva-rama
